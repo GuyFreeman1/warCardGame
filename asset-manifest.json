@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/warCardGame/static/css/main.78e44212.css",
+    "main.js": "/warCardGame/static/js/main.8713210c.js",
+    "static/js/787.cc190831.chunk.js": "/warCardGame/static/js/787.cc190831.chunk.js",
+    "static/media/back.jpg": "/warCardGame/static/media/back.693a53cdcc8f9a43661f.jpg",
+    "static/media/red.png": "/warCardGame/static/media/red.54526c4bf9120f12b021.png",
+    "static/media/bg1.jpg": "/warCardGame/static/media/bg1.3253cb5f6822a109a93a.jpg",
+    "static/media/bg4.jpg": "/warCardGame/static/media/bg4.7d3cbfa86f82f6f6a8a6.jpg",
+    "static/media/card.jpg": "/warCardGame/static/media/card.97347509ed05407c3f61.jpg",
+    "static/media/logoWar.png": "/warCardGame/static/media/logoWar.8da943862d8e734d16a0.png",
+    "index.html": "/warCardGame/index.html",
+    "main.78e44212.css.map": "/warCardGame/static/css/main.78e44212.css.map",
+    "main.8713210c.js.map": "/warCardGame/static/js/main.8713210c.js.map",
+    "787.cc190831.chunk.js.map": "/warCardGame/static/js/787.cc190831.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78e44212.css",
+    "static/js/main.8713210c.js"
+  ]
+}
